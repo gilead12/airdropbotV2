@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "KeyPairName",
+    "ParameterValue": "airdropbot-keypair"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  },
+  {
+    "ParameterKey": "SSHLocation",
+    "ParameterValue": "0.0.0.0/0"
+  },
+  {
+    "ParameterKey": "RepositoryURL",
+    "ParameterValue": "https://github.com/yourusername/airdropbotV2.git"
+  },
+  {
+    "ParameterKey": "TelegramToken",
+    "ParameterValue": "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+  },
+  {
+    "ParameterKey": "DatabaseURL",
+    "ParameterValue": "postgresql://user:password@localhost/airdropbot"
+  },
+  {
+    "ParameterKey": "Environment",
+    "ParameterValue": "production"
+  }
+]
