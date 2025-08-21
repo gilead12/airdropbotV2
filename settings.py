@@ -7,7 +7,7 @@ WELCOME_MESSAGE = """Welcome, {Username}! To qualify for the Greendale Airdrop:
  Rewards will be sent to your Solana wallet within 14 days after the airdrop ends."""
 
 ##TOKEN
-TELEGRAM_TOKEN= '8282457505:AAGff21xqnAStpphX07vLrhiwD4Kl0uPUME'
+TELEGRAM_TOKEN= ''
 
 
 ## welcome message
@@ -45,5 +45,6 @@ TWITTER_REJECTED_MESSAGE = "❌ Your X verification was rejected.\n\nReason: {re
 WALLET_PROMPT_MESSAGE = "💰 Final Step: Solana Wallet Submission\n\nPlease submit your Solana wallet address (e.g., from Phantom, Solflare, or other Solana wallets).\n\n⚠️ Important: Do not send an exchange wallet address."
 FINAL_SUCCESS_MESSAGE = "🎊 Registration Complete!\n\nCongratulations! You have successfully completed all verification steps:\n✅ Telegram group membership\n✅ X (Twitter) follow verification\n✅ Solana wallet submission\n\nYou're now eligible for the Greendale airdrop! Tokens will be distributed to your wallet address after February 28th, 2019.\n\n🔗 Your referral link: {ref_link}\nShare with friends to earn bonus tokens!"
 ALREADY_REGISTERED_MESSAGE = "✅ You're already registered!\n\nYour account status:\n{status_info}\n\n🔗 Your referral link: {ref_link}"
+
 
 
